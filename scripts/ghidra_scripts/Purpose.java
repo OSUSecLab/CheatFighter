@@ -1,0 +1,6 @@
+public enum Purpose {
+    SEQUENCE_FINDER,
+    OFFSET_FINDER,
+    REGISTER_FINDER,
+    MEMORY_FINDER;
+}

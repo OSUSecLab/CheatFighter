@@ -1,0 +1,3 @@
+fopen,open;fgets,read,fscanf;strstr,strcasestr;strtok;strtoul,atoi,atol
+fopen,open;fgets,read,fscanf;strstr,strcasestr;sscanf
+fopen,open;fgets,read,fscanf;sscanf
