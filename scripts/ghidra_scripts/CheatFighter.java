@@ -20,7 +20,7 @@ import java.time.Duration;
 import java.time.Instant;
 import java.util.*;
 
-public class NarcDragon extends GhidraScript {
+public class CheatFighter extends GhidraScript {
     private List<String> baseSearchFunctions;
     private List<String> baseCalculateFunctions;
     private DecompilerHelper decompilerHelper;
